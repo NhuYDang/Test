@@ -100,6 +100,7 @@
             this.btCong.TabIndex = 6;
             this.btCong.Text = "Cộng";
             this.btCong.UseVisualStyleBackColor = true;
+            this.btCong.Click += new System.EventHandler(this.btCong_Click);
             // 
             // Form1
             // 
